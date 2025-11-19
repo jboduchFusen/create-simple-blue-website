@@ -6,44 +6,44 @@
   :root {
     --radius: 0.5rem;
     
-    /* Blue theme colors */
-    --background: 220 100% 97%;
-    --foreground: 220 90% 15%;
+    /* Yellow theme colors */
+    --background: 50 100% 96%;
+    --foreground: 45 90% 15%;
 
-    --card: 220 100% 99%;
-    --card-foreground: 220 90% 15%;
+    --card: 50 100% 98%;
+    --card-foreground: 45 90% 15%;
 
-    --popover: 220 100% 99%;
-    --popover-foreground: 220 90% 15%;
+    --popover: 50 100% 98%;
+    --popover-foreground: 45 90% 15%;
 
-    --primary: 220 100% 50%;
-    --primary-foreground: 220 100% 98%;
+    --primary: 45 100% 50%;
+    --primary-foreground: 45 10% 10%;
 
-    --secondary: 220 30% 90%;
-    --secondary-foreground: 220 90% 15%;
+    --secondary: 45 30% 88%;
+    --secondary-foreground: 45 90% 15%;
 
-    --muted: 220 30% 95%;
-    --muted-foreground: 220 30% 40%;
+    --muted: 45 30% 92%;
+    --muted-foreground: 45 30% 35%;
 
-    --accent: 220 80% 60%;
-    --accent-foreground: 220 100% 98%;
+    --accent: 45 95% 55%;
+    --accent-foreground: 45 10% 10%;
 
     --destructive: 0 84% 60%;
-    --destructive-foreground: 220 100% 98%;
+    --destructive-foreground: 50 100% 98%;
 
-    --border: 220 30% 85%;
-    --input: 220 30% 85%;
-    --ring: 220 100% 50%;
+    --border: 45 30% 80%;
+    --input: 45 30% 80%;
+    --ring: 45 100% 50%;
 
-    /* Blue gradient variables */
-    --gradient-primary: linear-gradient(135deg, hsl(220 100% 60%) 0%, hsl(220 100% 40%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(220 30% 95%) 0%, hsl(220 50% 85%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(220 100% 95%) 0%, hsl(220 80% 85%) 50%, hsl(220 100% 75%) 100%);
+    /* Yellow gradient variables */
+    --gradient-primary: linear-gradient(135deg, hsl(45 100% 60%) 0%, hsl(45 100% 40%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(45 30% 92%) 0%, hsl(45 50% 82%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(50 100% 94%) 0%, hsl(45 80% 82%) 50%, hsl(40 100% 70%) 100%);
     
     /* Shadows */
-    --shadow-soft: 0 4px 20px hsla(220, 100%, 50%, 0.1);
-    --shadow-medium: 0 8px 30px hsla(220, 100%, 50%, 0.15);
-    --shadow-strong: 0 12px 40px hsla(220, 100%, 50%, 0.2);
+    --shadow-soft: 0 4px 20px hsla(45, 100%, 50%, 0.1);
+    --shadow-medium: 0 8px 30px hsla(45, 100%, 50%, 0.15);
+    --shadow-strong: 0 12px 40px hsla(45, 100%, 50%, 0.2);
   }
   .light {
     --background: 0 0% 100%;
