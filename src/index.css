@@ -6,44 +6,44 @@
   :root {
     --radius: 0.5rem;
     
-    /* Light blue theme colors */
-    --background: 210 100% 96%;
-    --foreground: 210 90% 15%;
+    /* Yellow theme colors */
+    --background: 48 100% 96%;
+    --foreground: 48 90% 15%;
 
-    --card: 210 100% 98%;
-    --card-foreground: 210 90% 15%;
+    --card: 48 100% 98%;
+    --card-foreground: 48 90% 15%;
 
-    --popover: 210 100% 98%;
-    --popover-foreground: 210 90% 15%;
+    --popover: 48 100% 98%;
+    --popover-foreground: 48 90% 15%;
 
-    --primary: 210 85% 55%;
-    --primary-foreground: 210 10% 98%;
+    --primary: 48 85% 55%;
+    --primary-foreground: 48 10% 98%;
 
-    --secondary: 210 30% 88%;
-    --secondary-foreground: 210 90% 15%;
+    --secondary: 48 30% 88%;
+    --secondary-foreground: 48 90% 15%;
 
-    --muted: 210 30% 92%;
-    --muted-foreground: 210 30% 35%;
+    --muted: 48 30% 92%;
+    --muted-foreground: 48 30% 35%;
 
-    --accent: 210 90% 60%;
-    --accent-foreground: 210 10% 98%;
+    --accent: 48 90% 60%;
+    --accent-foreground: 48 10% 98%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 50 100% 98%;
 
-    --border: 210 30% 80%;
-    --input: 210 30% 80%;
-    --ring: 210 85% 55%;
+    --border: 48 30% 80%;
+    --input: 48 30% 80%;
+    --ring: 48 85% 55%;
 
-    /* Light blue gradient variables */
-    --gradient-primary: linear-gradient(135deg, hsl(210 85% 65%) 0%, hsl(210 85% 45%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(210 30% 92%) 0%, hsl(210 50% 82%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(210 100% 94%) 0%, hsl(210 80% 82%) 50%, hsl(210 85% 65%) 100%);
+    /* Yellow gradient variables */
+    --gradient-primary: linear-gradient(135deg, hsl(48 85% 65%) 0%, hsl(48 85% 45%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(48 30% 92%) 0%, hsl(48 50% 82%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(48 100% 94%) 0%, hsl(48 80% 82%) 50%, hsl(48 85% 65%) 100%);
     
     /* Shadows */
-    --shadow-soft: 0 4px 20px hsla(210, 85%, 55%, 0.1);
-    --shadow-medium: 0 8px 30px hsla(210, 85%, 55%, 0.15);
-    --shadow-strong: 0 12px 40px hsla(210, 85%, 55%, 0.2);
+    --shadow-soft: 0 4px 20px hsla(48, 85%, 55%, 0.1);
+    --shadow-medium: 0 8px 30px hsla(48, 85%, 55%, 0.15);
+    --shadow-strong: 0 12px 40px hsla(48, 85%, 55%, 0.2);
   }
   .light {
     --background: 0 0% 100%;
