@@ -15,7 +15,7 @@ const Index = () => {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Zap className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">OrangeFlow</span>
+            <span className="text-xl font-bold text-foreground">Color Flow</span>
           </div>
           <nav className="hidden md:flex items-center space-x-6">
             <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">Home</a>
@@ -36,7 +36,7 @@ const Index = () => {
             ✨ New Features Available
           </Badge>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            Welcome to OrangeFlow
+            Welcome to Color Flow
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Experience the power of modern design with our beautiful blue-themed platform. 
@@ -58,7 +58,7 @@ const Index = () => {
       <section className="py-16 px-4 bg-background/50">
         <div className="container mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Why Choose OrangeFlow?</h2>
+            <h2 className="text-3xl font-bold mb-4">Why Choose Color Flow?</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Discover the features that make our platform stand out from the rest
             </p>
@@ -142,10 +142,10 @@ const Index = () => {
             <div className="w-6 h-6 bg-primary rounded-md flex items-center justify-center">
               <Zap className="w-4 h-4 text-primary-foreground" />
             </div>
-            <span className="font-semibold text-foreground">OrangeFlow</span>
+            <span className="font-semibold text-foreground">Color Flow</span>
           </div>
           <p className="text-muted-foreground">
-            © 2024 OrangeFlow. All rights reserved.
+            © 2024 Color Flow. All rights reserved.
           </p>
         </div>
       </footer>
