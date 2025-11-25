@@ -6,44 +6,44 @@
   :root {
     --radius: 0.5rem;
     
-    /* Orange theme colors */
-    --background: 30 100% 96%;
-    --foreground: 30 90% 15%;
+    /* Brown theme colors */
+    --background: 30 40% 96%;
+    --foreground: 30 40% 15%;
 
-    --card: 30 100% 98%;
-    --card-foreground: 30 90% 15%;
+    --card: 30 40% 98%;
+    --card-foreground: 30 40% 15%;
 
-    --popover: 30 100% 98%;
-    --popover-foreground: 30 90% 15%;
+    --popover: 30 40% 98%;
+    --popover-foreground: 30 40% 15%;
 
-    --primary: 30 85% 55%;
+    --primary: 30 45% 50%;
     --primary-foreground: 30 10% 98%;
 
-    --secondary: 30 30% 88%;
-    --secondary-foreground: 30 90% 15%;
+    --secondary: 30 20% 88%;
+    --secondary-foreground: 30 40% 15%;
 
-    --muted: 30 30% 92%;
-    --muted-foreground: 30 30% 35%;
+    --muted: 30 20% 92%;
+    --muted-foreground: 30 20% 35%;
 
-    --accent: 30 90% 60%;
+    --accent: 30 50% 60%;
     --accent-foreground: 30 10% 98%;
 
     --destructive: 0 84% 60%;
-    --destructive-foreground: 30 100% 98%;
+    --destructive-foreground: 0 100% 98%;
 
-    --border: 30 30% 80%;
-    --input: 30 30% 80%;
-    --ring: 30 85% 55%;
+    --border: 30 20% 80%;
+    --input: 30 20% 80%;
+    --ring: 30 45% 50%;
 
-    /* Orange gradient variables */
-    --gradient-primary: linear-gradient(135deg, hsl(30 85% 65%) 0%, hsl(30 85% 45%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(30 30% 92%) 0%, hsl(30 50% 82%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(30 100% 94%) 0%, hsl(30 80% 82%) 50%, hsl(30 85% 65%) 100%);
+    /* Brown gradient variables */
+    --gradient-primary: linear-gradient(135deg, hsl(30 45% 60%) 0%, hsl(30 45% 40%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(30 20% 92%) 0%, hsl(30 30% 82%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(30 40% 94%) 0%, hsl(30 30% 82%) 50%, hsl(30 45% 60%) 100%);
     
     /* Shadows */
-    --shadow-soft: 0 4px 20px hsla(30, 85%, 55%, 0.1);
-    --shadow-medium: 0 8px 30px hsla(30, 85%, 55%, 0.15);
-    --shadow-strong: 0 12px 40px hsla(30, 85%, 55%, 0.2);
+    --shadow-soft: 0 4px 20px hsla(30, 45%, 50%, 0.1);
+    --shadow-medium: 0 8px 30px hsla(30, 45%, 50%, 0.15);
+    --shadow-strong: 0 12px 40px hsla(30, 45%, 50%, 0.2);
   }
   .light {
     --background: 0 0% 100%;
